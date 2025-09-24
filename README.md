@@ -16,9 +16,11 @@ Jie Qi : https://technolojie.com/
 
 KOBAKANT : https://www.kobakant.at/DIY/?p=9948
 
+Make Magazine : https://makezine.com/projects/
+
 MakerGuides.com : https://www.makerguides.com/
 
-Make Magazine : https://makezine.com/projects/
+Maker Portal: https://makersportal.com/
 
 ScienceBuddies.org : https://www.sciencebuddies.org/search?prop=arduino&ytid=3hoBwa0ccys&ytsrc=description
 
