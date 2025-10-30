@@ -1,4 +1,5 @@
 # Inspiring Projects
+--------------------
 
 Find inspiring physical computing projects online:
 
