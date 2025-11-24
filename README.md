@@ -1,7 +1,7 @@
 # Inspiring Projects
 --------------------
 
-Find inspiring physical computing projects online:
+Find inspiring Creative Computing projects online:
 
 ------
 
@@ -22,6 +22,8 @@ Find inspiring physical computing projects online:
 [MakerGuides.com](https://www.makerguides.com/)
 
 [Maker Portal](https://makersportal.com/)
+
+[Open Processing](https://openprocessing.org/)
 
 [ScienceBuddies.org](https://www.sciencebuddies.org/search?prop=arduino&ytid=3hoBwa0ccys&ytsrc=description)
 
