@@ -13,8 +13,6 @@ Find inspiring Creative Computing projects online:
 
 [Hackster.io](https://www.hackster.io/projects)
 
-[Jie Qi](https://technolojie.com/)
-
 [KOBAKANT](https://www.kobakant.at/DIY/?p=9948)
 
 [Make Magazine](https://makezine.com/projects/)
@@ -32,7 +30,13 @@ Find inspiring Creative Computing projects online:
 
 ------
 
-Last update : 2025
+# People
+
+[Daniel Leithinger](https://leithinger.com/)
+
+[Jie Qi](https://technolojie.com/)
+
+
 
 
 
