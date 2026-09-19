@@ -34,7 +34,17 @@ Find inspiring Creative Computing projects online:
 
 ------
 
-# London Digital Arts - communities
+# London Based: Digital Arts Communities
+
+[Computer Arts Society](https://computer-arts-society.com/events/index.html)
+
+[Compiler](https://compiler.zone/)
+
+[London Community Laptop Orchestra](londoncommunitylaptoporchestra.net)
+
+[Lumen Prize](https://lumenprize.org/)
+
+[Pattern Club](https://patternclub.org/london/)
 
 [Peckham Digital](https://peckhamdigital.org/)
 
@@ -42,7 +52,7 @@ Find inspiring Creative Computing projects online:
 
 ------
 
-# Institutions / Organizations
+# Other Institutions / Organizations
 
 [African Digital Art](https://www.africandigitalart.com/)
 
